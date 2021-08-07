@@ -1,5 +1,5 @@
 # ICSI CNSS – Certified Network Security Specialist
-
+![image](https://s3.amazonaws.com/thinkific/file_uploads/231374/images/aae/550/c27/CNSS_Badge.png)
 ## What is ICSI CNSS?
 This course by the International Cybersecurity Institute – Certified Network Security Specialist a.k.a ICSI CNSS provides a detailed overview of modern network security including operating system hardening, firewalls, intrusion-detection systems, VPNs, and Encryption. The course also includes topics such as physical security standards, system security, and security policies.
 
